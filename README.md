@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Html, Css, Javascript and Reactjs.
 - 💞️ I’m looking to collaborate on challenging open source projects. 
-- 📫 Reach me at : laveshbisht01@gamilcom
+- 📫 Reach me at : https://lavesh01.github.io/Lavesh-portfolio/
