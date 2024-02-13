@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lavesh01
-- 👀 I'm a Full-Stack Developer.
-- 🌱 I’m currently learning Html, Css, Javascript, MongoDB, Express, Reactjs and Node.
+- 👀 I'm a Software Developer.
+- 🌱 I’m currently learning Html, Css, Javascript, Reactjs, Nextjs, MongoDB, MySql, Express, Node ...
 - 💞️ I’m looking to collaborate on challenging open source projects. 
 - 📫 Reach me at : https://lavesh01.github.io/Lavesh-portfolio/
